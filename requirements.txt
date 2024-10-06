@@ -1,4 +1,5 @@
 scikit-learn
-pandas
-numpy
-matplotlib
+pandas            
+numpy                     
+matplotlib              
+imbalanced-learn
