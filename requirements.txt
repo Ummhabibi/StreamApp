@@ -9,3 +9,4 @@ streamlit==1.38.0
 association-metrics
 plotly
 lightgbm
+scipy
