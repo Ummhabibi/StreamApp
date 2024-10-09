@@ -3,3 +3,9 @@ pandas
 numpy                     
 matplotlib              
 imbalanced-learn
+catboost
+xgboost
+streamlit
+association-metrics
+plotly
+lightgbm
