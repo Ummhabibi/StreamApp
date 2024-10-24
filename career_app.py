@@ -62,7 +62,7 @@ else:
     career_path_map = {0: 'Finance or Education', 1: 'Other', 2: 'Science or Engineering', 3: 'Tech'}
 
     # When the user clicks the "Predict" button
-    if st.button('Predict'):
+    if st.button('Predict Career Path'):
         # Make prediction
         prediction = model.predict(user_data)
 
