@@ -17,7 +17,7 @@ st.info("""
 st.write("""
 ### Instructions:
 1. Select the appropriate options from each dropdown menu that best describe your current situation.
-2. If you are transitioning careers, make sure to select 'Yes' in the career transition question.
+2. If you are transitioning careers, make sure to select an option that applies to you from the "Transition Profile" section, otherwise select "Other".
 3. Once all the inputs are selected, click the **Predict** button to see the suggested career path for you.
 """)
 
